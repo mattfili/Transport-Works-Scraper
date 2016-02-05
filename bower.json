@@ -1,0 +1,26 @@
+{
+  "name": "Transport-Works-Scraper",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mattfili/Transport-Works-Scraper",
+  "authors": [
+    "Matt Fili <matthewjosephfili@gmail.com>"
+  ],
+  "description": "",
+  "main": "main.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "angular-material": "~1.0.5",
+    "ng-file-upload": "~11.2.3"
+  }
+}

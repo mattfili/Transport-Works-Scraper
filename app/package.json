@@ -1,0 +1,25 @@
+{
+  "name": "transport-works-scraper",
+  "version": "1.0.0",
+  "description": "Scraping Utility for Transport Works",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfili/Transport-Works-Scraper.git"
+  },
+  "author": "Matt Fili <mfili@airvel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfili/Transport-Works-Scraper/issues"
+  },
+  "homepage": "https://github.com/mattfili/Transport-Works-Scraper#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.7",
+    "fs-jetpack": "^0.7.1",
+    "q": "^1.4.1",
+    "xlsx": "^0.8.0"
+  }
+}
